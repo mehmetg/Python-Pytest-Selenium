@@ -12,11 +12,11 @@ browsers = [
         "browserName": "internet explorer",
         "version": "11"
     },
-    {
-        "platform": "OS X 10.11",
-        "browserName": "safari",
-        "version": "9"
-    }
+    # {
+    #     "platform": "OS X 10.11",
+    #     "browserName": "safari",
+    #     "version": "9"
+    # }
 ]
 
 
